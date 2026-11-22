@@ -27,6 +27,7 @@ def k_means_clustering(
         new_centroids = []
 
         for i in range(k):
+            # GPT helped with this one. It was annoying to have np.float64 show up everywhere.
             centroid = np.mean(dict_centroids_points[i], axis=0)
             new_centroids.append(tuple(float(x) for x in centroid))
 
