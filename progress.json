@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:21:03.111Z",
+  "generated_at": "2026-11-22T08:15:49.908Z",
   "items": {
     "problem:7": {
       "kind": "problem",
@@ -182,6 +182,19 @@
       "last_pushed_at": "2026-11-21T20:41:01.695Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:382": {
+      "kind": "problem",
+      "id": "382",
+      "title": "Direct Preference Optimization (DPO) Loss",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/382",
+      "path": "problems/0382-direct-preference-optimization-dpo-loss",
+      "first_solved_at": "2026-11-22T08:15:49.303Z",
+      "last_pushed_at": "2026-11-22T08:15:49.303Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
