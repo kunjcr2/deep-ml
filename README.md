@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 26 problems · 0 labs · 0 math
+**27** solved · 27 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-11-23 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-11-22 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-11-22 | [solution](problems/0491-build-a-transformer-encoder-layer) |
+| [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-11-23 | [solution](problems/0085-positional-encoding-calculator) |
 
 ---
 
