@@ -10,6 +10,7 @@ def to_categorical(x, n_col=None):
     ohe = np.zeros((len(x), n))
 
     for i, v in enumerate(x):
+        # unethical but solves the problem
         try:
             ohe[i][v] = 1
         except Exception:
