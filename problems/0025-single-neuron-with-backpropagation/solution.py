@@ -14,6 +14,9 @@ def train_neuron(
     mse_values = []
     N = len(features)
 
+    # GPT said --> I forgot Sigmoid completely
+    # I was wondering why X.T in the grad_w <-- it explained
+
     for epoch in range(epochs):
         logits = features @ updated_weights + updated_bias
 
