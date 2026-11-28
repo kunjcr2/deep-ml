@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T16:56:54.189Z",
+  "generated_at": "2026-11-28T17:53:45.893Z",
   "items": {
     "problem:7": {
       "kind": "problem",
@@ -598,6 +598,19 @@
       "last_pushed_at": "2026-11-28T16:56:53.666Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:124": {
+      "kind": "problem",
+      "id": "124",
+      "title": "Implement the Noisy Top-K Gating Function",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/124",
+      "path": "problems/0124-implement-the-noisy-top-k-gating-function",
+      "first_solved_at": "2026-11-28T17:53:45.296Z",
+      "last_pushed_at": "2026-11-28T17:53:45.296Z",
+      "language": "python",
+      "lines": 56
     }
   }
 }

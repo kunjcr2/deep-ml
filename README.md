@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 46 problems · 0 labs · 0 math
+**47** solved · 47 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-11-22 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-25 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-11-23 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2026-11-28 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-11-22 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-22 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-21 | [solution](problems/0007-matrix-transformation) |
