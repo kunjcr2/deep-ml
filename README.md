@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 47 problems · 0 labs · 0 math
+**48** solved · 48 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-11-26 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-22 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-11-22 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
+| [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-11-28 | [solution](problems/0151-dropout-layer) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-25 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-11-23 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2026-11-28 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
